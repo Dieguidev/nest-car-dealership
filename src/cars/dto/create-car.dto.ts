@@ -6,4 +6,4 @@ export class CreateCarDto {
 
   @IsString()
   readonly model: string;
-}
+};
